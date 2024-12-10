@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![](https://visitcount.itsvg.in/api?id=lintangtimur&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lintangtimur.lintangtimur">
   
 <h2 align="center">⚡ Stats ⚡</h2>
